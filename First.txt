@@ -1,5 +1,4 @@
-added a line to the top. end of first file.
-It is a great file.
+front of first line. added a line to the top. end of first file.
 
 This is my first file.
 It is a great file.
